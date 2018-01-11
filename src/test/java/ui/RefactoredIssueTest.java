@@ -78,7 +78,7 @@ public class RefactoredIssueTest {
     DashBoardPage dashBoardPage = new DashBoardPage();
     IssuePage issuePage = new IssuePage();
 
-    String subTaskId = "QAAUT-465";
+    String subTaskId = "QAAUT-2";
     String commentText = "Test Comment";
 
     loginPage.open();
